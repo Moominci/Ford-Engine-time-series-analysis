@@ -1,5 +1,3 @@
----
-
 # Ford-Engine-time-series-analysis
 
 This project analyzes and models engine data for Ford vehicles. The notebook includes data preprocessing, exploratory data analysis (EDA), and prepares the data for further machine learning or statistical modeling tasks.
