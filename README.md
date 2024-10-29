@@ -23,8 +23,8 @@ pip install Numpy Pandas Matplotlib Seaborn Normaltest Sklearn Xgboost Tensorflo
 ```
 #### Project Clone
 ```bash
-git clone https://github.com/yourusername/InsightMiner.git
-cd InsightMiner
+git clone https://github.com/Moominci/Ford-Engine-time-series-analysis.git
+cd Ford-Engine-time-series-analysis
 ```
 
 <b>\# Time Series \# Classification \# Sensor</b>
