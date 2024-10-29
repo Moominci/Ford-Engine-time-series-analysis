@@ -29,6 +29,7 @@ This project aims to provide a systematic approach to analyzing engine sensor da
 
 The data preprocessing steps involve:
 - Loading the data from CSV files.
+- Visualizing & Checking data
 - Renaming sensor columns for easier readability.
 - Creating a time-based index to enhance data analysis over specific time frames.
 
