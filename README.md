@@ -25,6 +25,8 @@ This project analyzes and models engine data for Ford vehicles. The notebook inc
 
 This project aims to provide a systematic approach to analyzing engine sensor data and preparing it for predictive modeling. The dataset includes multiple sensor readings over time, enabling a detailed exploration of various engine behaviors and patterns.
 
+- We use Jupiter laptop environments to simplify data visualization and data checking
+
 ## Data EDA (Exploratory Data Analysis)
 
 The data preprocessing steps involve:
