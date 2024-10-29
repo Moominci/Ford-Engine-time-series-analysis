@@ -11,3 +11,34 @@
 - <b>Feature description</b>: Each feature represents information extracted from sensors installed in Ford vehicle engines
 
 <b>\# Time Series \# Classification \# Sensor</b>
+
+# Ford Engine Analysis & Modeling
+
+This project analyzes and models engine data for Ford vehicles. The notebook includes data preprocessing, exploratory data analysis (EDA), and prepares the data for further machine learning or statistical modeling tasks.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Data EDA (Exploratory Data Analysis)](#data-eda-exploratory-data-analysis)
+3. [Data Loading and Inspection](#data-loading-and-inspection)
+
+## Introduction
+
+This project aims to provide a systematic approach to analyzing engine sensor data and preparing it for predictive modeling. The dataset includes multiple sensor readings over time, enabling a detailed exploration of various engine behaviors and patterns.
+
+## Data EDA (Exploratory Data Analysis)
+
+The data preprocessing steps involve:
+- Loading the data from CSV files.
+- Renaming sensor columns for easier readability.
+- Creating a time-based index to enhance data analysis over specific time frames.
+
+## Data Loading and Inspection
+
+In this section:
+- Training and test datasets are loaded and inspected.
+- Basic information about data shape and initial rows are displayed to understand the structure and key attributes of the datasets.
+
+---
+
+Feel free to contribute by improving data preprocessing steps or adding more complex modeling techniques!
