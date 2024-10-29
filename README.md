@@ -18,6 +18,7 @@ This project analyzes and models engine data for Ford vehicles. The notebook inc
 - Python 3.7 and later
 - We use Jupiter laptop environments to simplify data visualization and data checking
 - Required Library Installation: Numpy, Pandas, Matplotlib, Seaborn, Normaltest, Sklearn, Xgboost, Tensorflow, Keras
+- Download the dataset through Url link and place it in the same folder
 
 ```bash
 pip install Numpy Pandas Matplotlib Seaborn Normaltest Sklearn Xgboost Tensorflow Keras
