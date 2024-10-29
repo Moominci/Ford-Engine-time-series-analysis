@@ -1,4 +1,7 @@
 # Ford-Engine-time-series-analysis
+
+This project analyzes and models engine data for Ford vehicles. The notebook includes data preprocessing, exploratory data analysis (EDA), and prepares the data for further machine learning or statistical modeling tasks.
+
 <img src="./engine.png" alt="Alternative text" width="420">
 
 - <b>Dataset</b>: Ford Engine Vibration AI Dataset
@@ -11,10 +14,6 @@
 - <b>Feature description</b>: Each feature represents information extracted from sensors installed in Ford vehicle engines
 
 <b>\# Time Series \# Classification \# Sensor</b>
-
-# Ford Engine Analysis & Modeling
-
-This project analyzes and models engine data for Ford vehicles. The notebook includes data preprocessing, exploratory data analysis (EDA), and prepares the data for further machine learning or statistical modeling tasks.
 
 ## Table of Contents
 
