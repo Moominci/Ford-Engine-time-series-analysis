@@ -1,5 +1,5 @@
 # Ford-Engine-time-series-analysis
-<img src="./engine.png" alt="Alternative text" width="480" height="360">
+<img src="./engine.png" alt="Alternative text" width="480">
 
 - <b>Dataset</b>: Ford Engine Vibration AI Dataset
 - <b>Data type</b>: txt
