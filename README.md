@@ -13,6 +13,15 @@ This project analyzes and models engine data for Ford vehicles. The notebook inc
 - <b>Feature name</b>: Sensor 1~500
 - <b>Feature description</b>: Each feature represents information extracted from sensors installed in Ford vehicle engines
 
+### Environmental Requierments
+
+- Python 3.7 and later
+- Required Library Installation: Numpy, Pandas, Matplotlib, Seaborn, Normaltest, Sklearn, Xgboost, Tensorflow, Keras
+
+```bash
+pip install Numpy Pandas Matplotlib Seaborn Normaltest Sklearn Xgboost Tensorflow Keras
+```
+
 <b>\# Time Series \# Classification \# Sensor</b>
 
 ## Table of Contents
