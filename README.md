@@ -36,7 +36,7 @@ cd Ford-Engine-time-series-analysis
 
 1. [Introduction](#introduction)
 2. [Data EDA (Exploratory Data Analysis)](#data-eda-exploratory-data-analysis)
-3. [Data Loading and Inspection](#data-loading-and-inspection)
+3. [Modeling](#Modeling)
 
 ## Introduction
 
