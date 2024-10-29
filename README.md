@@ -50,10 +50,10 @@ The data preprocessing steps involve:
 - Renaming sensor columns for easier readability.
 - Creating a time-based index to enhance data analysis over specific time frames.
 
-## Data Loading and Inspection
+## Modeling
 
 In this section:
 - Training and test datasets are loaded and inspected.
-- Basic information about data shape and initial rows are displayed to understand the structure and key attributes of the datasets.
+- Use XGboost, LSTM model to classify maintenance of systems
 
 ---
